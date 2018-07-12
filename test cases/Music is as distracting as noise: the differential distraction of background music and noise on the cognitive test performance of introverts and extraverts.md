@@ -22,3 +22,20 @@ Previous research has found that the performance of introverts on complex cognit
 ## Abstract
 
 The effects of music amplitude on participants' response time to randomly presented, unexpected, visual events were investigated. Ninety participants completed a motor-reaction task without music and with music played at 60, 70. or 80 dBA. Males preferred more intense music than females did, with males selecting a comfort level of 72 dBA and females, 66 dBA. However, participants' reaction time and the total time to respond to a randomly activated red light were independent of gender. All participants responded more quickly when the music was played at 70 dBA (close to their comfort level) than when it played at lower (60 dBA) or higher (80 dBA) amplitudes. It is proposed that people may react more quickly to visual events (e.g., the sudden appearance of a plane on the screen of an air traffic controller, or the unpredictable activation of a car's rear brake lights when driving) with music playing at a volume preset to maintain individual comfort levels against other situational background noise.
+
+
+
+
+# The influence of music on mood and performance while driving
+
+
+[https://www.tandfonline.com/doi/abs/10.1080/00140139.2011.638403?journalCode=terg20](https://www.tandfonline.com/doi/abs/10.1080/00140139.2011.638403?journalCode=terg20)
+
+
+
+## Abstract
+Mood can influence our everyday behaviour and people often seek to reinforce, or to alter their mood, for example by turning on music. Music listening while driving is a popular activity. However, little is known about the impact of music listening while driving on physiological state and driving performance. In the present experiment, it was investigated whether individually selected music can induce mood and maintain moods during a simulated drive. In addition, effects of positive, negative, and no music on driving behaviour and physiological measures were assessed for normal and high cognitive demanding rides. Subjective mood ratings indicated that music successfully maintained mood while driving. Narrow lane width drives increased task demand as shown in effort ratings and increased swerving. Furthermore, respiration rate was lower during music listening compared to rides without music, while no effects of music were found on heart rate. Overall, the current study demonstrates that music listening in car influences the experienced mood while driving, which in turn can impact driving behaviour.
+
+## Practitioners Summary: 
+Even though it is a popular activity, little is known about the impact of music while driving on physiological state and performance. We examined whether music can induce moods during high and low simulated drives. The current study demonstrates that in car music listening influences mood which in turn can impact driving behaviour. The current study shows that listening to music can positively impact mood while driving, which can be used to affect state and safe behaviour. Additionally, driving performance in high demand situations is not negatively affected by music.
+
