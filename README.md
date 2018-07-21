@@ -8,7 +8,12 @@ This paper is an emphasis on effects of music on driver of different factors lik
 * Physical (Athlete or non Athlete)
 * Age
 
-There are some myths about dangerous song while driving like "'Hey Mama' – the Black Eyed Peas", "'Dead on Arrival' – Fall Out Boy", "'Paper Planes' – MIA" why are they considered dangerous is this a biased research or what are underlying relationships are our interest also.
+There are some myths about dangerous song while driving like
+* "'Hey Mama' – the Black Eyed Peas"
+* "'Dead on Arrival' – Fall Out Boy"
+* "'Paper Planes' – MIA" 
+
+why are they considered dangerous is this a biased research or what are underlying relationships are our interest also.
 
 and how to counter them with machine learning
 
