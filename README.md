@@ -2,8 +2,10 @@
 This Repository contains data about effect of music on drivers and how to over come them using automation. 
 ## Abstract
 This paper is an emphasis on effects of music on driver of different factors like :
-* Personality (Introvert or Extrovert)
-* Gender 
+* #### Personality
+
+How music have effect on people with different personalities like "Introverts", "Extroverts".
+* Gender
 * BPM of music (Beats per Minute)
 * Physical (Athlete or non Athlete)
 * Age
