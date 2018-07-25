@@ -1,3 +1,6 @@
+[https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
+
+
 # 1. Music is as distracting as noise: the differential distraction of background music and noise on the cognitive test performance of introverts and extraverts
 
 [https://www.tandfonline.com/doi/abs/10.1080/00140130210121932](https://www.tandfonline.com/doi/abs/10.1080/00140130210121932)
